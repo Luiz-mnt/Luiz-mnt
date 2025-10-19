@@ -43,17 +43,9 @@ Sistema completo de monitoramento com cálculo de dias úteis e disparo automát
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luiz-mnt&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizsntsmonteiro)
-
-**📍 Belo Horizonte, MG - Brasil**
 
 ---
 
