@@ -29,7 +29,7 @@ Transformo processos manuais em soluções automatizadas que economizam tempo e 
 
 ### 🚀 Projetos em Destaque
 
-📌 **[Parser Avançado TJSP](link-do-repo)**  
+📌 **[Parser Avançado TJSP](https://github.com/Luiz-mnt/parser-avancado-tjsp)**  
 Sistema robusto com 13+ padrões regex e máquina de estados para parsing de dados judiciais
 
 📌 **[Pipeline de Qualidade de Dados](link-do-repo)**  
