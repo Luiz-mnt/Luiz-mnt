@@ -38,7 +38,7 @@ ETL profissional com detecção de duplicados e otimização de performance
 📌 **[Sistema de Segmentação BI](link-do-repo)**  
 Modelagem multidimensional com ranking ponderado para análise estratégica
 
-📌 **[Automação de SLA](link-do-repo)**  
+📌 **[Automação de SLA](https://github.com/Luiz-mnt/monitoramento-sla)**  
 Sistema completo de monitoramento com cálculo de dias úteis e disparo automático de e-mails
 
 ---
