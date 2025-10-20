@@ -32,7 +32,7 @@ Transformo processos manuais em soluções automatizadas que economizam tempo e 
 📌 **[Parser Avançado TJSP](https://github.com/Luiz-mnt/parser-avancado-tjsp)**  
 Sistema robusto com 13+ padrões regex e máquina de estados para parsing de dados judiciais
 
-📌 **[Pipeline de Qualidade de Dados](link-do-repo)**  
+📌 **[Pipeline de Qualidade de Dados](https://github.com/Luiz-mnt/pipeline-qualidade-dados)**  
 ETL profissional com detecção de duplicados e otimização de performance
 
 📌 **[Sistema de Segmentação BI](link-do-repo)**  
