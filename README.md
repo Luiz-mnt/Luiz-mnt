@@ -35,7 +35,7 @@ Sistema robusto com 13+ padrões regex e máquina de estados para parsing de dad
 📌 **[Pipeline de Qualidade de Dados](https://github.com/Luiz-mnt/pipeline-qualidade-dados)**  
 ETL profissional com detecção de duplicados e otimização de performance
 
-📌 **[Sistema de Segmentação BI](link-do-repo)**  
+📌 **[Sistema de Segmentação BI](https://github.com/Luiz-mnt/segmentacao-bi)**  
 Modelagem multidimensional com ranking ponderado para análise estratégica
 
 📌 **[Automação de SLA](https://github.com/Luiz-mnt/monitoramento-sla)**  
