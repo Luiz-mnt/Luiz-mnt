@@ -51,10 +51,4 @@ Sistema de validação e limpeza de grandes volumes com detecção de duplicados
 
 ---
 
-### 📫 Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-monteiro-954425304)
-
----
-
 **📍 Belo Horizonte, MG — Brasil**
