@@ -1,11 +1,12 @@
-## 💼 Analista de Dados & Automação Python
+## 💼 Desenvolvedor Python · Engenheiro de Dados
 
-Transformo processos manuais em soluções automatizadas que economizam tempo e dinheiro.
+Construo pipelines ETL, sistemas de automação e soluções de dados que transformam processos manuais em operações inteligentes.
 
 **Resultados entregues:**
-- 🚀 90% redução em tempo de processamento
-- 💰 60% redução em custos operacionais  
-- 📊 Sistemas gerenciando milhões em ativos
+- 🚀 92% de redução em tempo de processamento
+- 💰 60% de redução em custos operacionais  
+- 📊 +90k registros processados em sistemas de segmentação e scoring
+- 📈 Dashboards gerenciando R$ 2B+ em ativos
 
 ---
 
@@ -17,36 +18,44 @@ Transformo processos manuais em soluções automatizadas que economizam tempo e 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Automação & Web Scraping:**  
+**Automação & Extração:**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-0055FF?style=flat&logoColor=white)
+
+**Bancos de Dados & Cloud:**  
+![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **BI & Visualização:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+**Infra & Versionamento:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ---
 
 ### 🚀 Projetos em Destaque
 
+📌 **[Predição de Satisfação — E-Commerce Olist](https://github.com/Luiz-mnt/olist-customer-satisfaction)**  
+Classificação binária sobre 94.994 pedidos com Random Forest (F1: 0.895, Accuracy: 81.9%). Identificou principais drivers de insatisfação no e-commerce.
+
 📌 **[Parser Avançado TJSP](https://github.com/Luiz-mnt/parser-avancado-tjsp)**  
-Sistema robusto com 13+ padrões regex e máquina de estados para parsing de dados judiciais
+13+ padrões regex e máquina de estados para extração automatizada de dados judiciais de arquivos não estruturados.
 
 📌 **[Pipeline de Qualidade de Dados](https://github.com/Luiz-mnt/pipeline-qualidade-dados)**  
-ETL profissional com detecção de duplicados e otimização de performance
-
-📌 **[Sistema de Segmentação BI](https://github.com/Luiz-mnt/segmentacao-bi)**  
-Modelagem multidimensional com ranking ponderado para análise estratégica
-
-📌 **[Automação de SLA](https://github.com/Luiz-mnt/monitoramento-sla)**  
-Sistema completo de monitoramento com cálculo de dias úteis e disparo automático de e-mails
+Sistema de validação e limpeza de grandes volumes com detecção de duplicados e categorização por faixas.
 
 ---
 
 ### 📫 Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizsntsmonteiro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizsntsmonteiro@gmail.com)
 
 ---
 
-**📍 Belo Horizonte, MG - Brasil**
+**📍 Belo Horizonte, MG — Brasil**
