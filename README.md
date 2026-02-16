@@ -40,7 +40,7 @@ Construo pipelines ETL, sistemas de automação e soluções de dados que transf
 
 ### 🚀 Projetos em Destaque
 
-📌 **[Predição de Satisfação — E-Commerce Olist](https://github.com/Luiz-mnt/olist-customer-satisfaction)**  
+📌 **[Predição de Satisfação — E-Commerce Olist](https://github.com/Luiz-mnt/Projeto-Data-Science)**  
 Classificação binária sobre 94.994 pedidos com Random Forest (F1: 0.895, Accuracy: 81.9%). Identificou principais drivers de insatisfação no e-commerce.
 
 📌 **[Parser Avançado TJSP](https://github.com/Luiz-mnt/parser-avancado-tjsp)**  
@@ -53,8 +53,7 @@ Sistema de validação e limpeza de grandes volumes com detecção de duplicados
 
 ### 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizsntsmonteiro)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizsntsmonteiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/luizsntsmonteiro)
 
 ---
 
