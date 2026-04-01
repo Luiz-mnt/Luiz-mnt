@@ -43,9 +43,6 @@ Construo pipelines ETL, sistemas de automação e soluções de dados que transf
 📌 **[Predição de Satisfação — E-Commerce Olist](https://github.com/Luiz-mnt/Projeto-Data-Science)**  
 Classificação binária sobre 94.994 pedidos com Random Forest (F1: 0.895, Accuracy: 81.9%). Identificou principais drivers de insatisfação no e-commerce.
 
-📌 **[Parser Avançado TJSP](https://github.com/Luiz-mnt/parser-avancado-tjsp)**  
-13+ padrões regex e máquina de estados para extração automatizada de dados judiciais de arquivos não estruturados.
-
 📌 **[Pipeline de Qualidade de Dados](https://github.com/Luiz-mnt/pipeline-qualidade-dados)**  
 Sistema de validação e limpeza de grandes volumes com detecção de duplicados e categorização por faixas.
 
